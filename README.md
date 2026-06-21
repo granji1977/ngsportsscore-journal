@@ -1,2 +1,14 @@
 # ngsportsscore-journal
-HTML page archive and documentation
+
+HTML 发布文件仓库
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
